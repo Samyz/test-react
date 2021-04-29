@@ -1,0 +1,23 @@
+.main.curriculum.body {
+  position: relative;
+}
+
+.main.curriculum.topic {
+  line-height: 54px;
+
+  color: #ff7637;
+}
+
+.main.curriculum.info {
+  font-size: 24px;
+  line-height: 40px;
+  text-indent: 50px;
+
+  color: #5e5f64;
+}
+
+.main.curriculum.link.slide {
+  flex-wrap: nowrap;
+  display: flex;
+  margin: auto;
+}

@@ -1,0 +1,18 @@
+.main.port.body {
+  margin-top: 35px;
+  margin-bottom: 37px;
+}
+
+.main.port.topic {
+  line-height: 54px;
+
+  color: #ff7637;
+}
+
+.main.port.link.slide {
+  flex-wrap: nowrap;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}

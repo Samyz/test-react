@@ -1,0 +1,29 @@
+.main.announce.box {
+  flex-wrap: nowrap;
+  display: flex;
+  position: relative;
+  height: 48px;
+  border-bottom: 2px solid #e6e8ed;
+}
+
+.main.announce.icon {
+  /* position: relative; */
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 50%;
+  /* left: 50%; */
+  transform: translate(0%, -50%);
+}
+
+.main.announce.info {
+  position: absolute;
+  top: 50%;
+  left: 4%;
+  transform: translate(0%, -50%);
+
+  line-height: 24px;
+
+  display: flex;
+  align-items: center;
+}
